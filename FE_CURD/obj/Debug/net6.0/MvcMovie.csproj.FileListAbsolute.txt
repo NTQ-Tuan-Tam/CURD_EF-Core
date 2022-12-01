@@ -1,0 +1,8 @@
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\FE_CURD\FE_CURD\obj\Debug\net6.0\MvcMovie.csproj.AssemblyReference.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\FE_CURD\FE_CURD\obj\Debug\net6.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\FE_CURD\FE_CURD\obj\Debug\net6.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\FE_CURD\FE_CURD\obj\Debug\net6.0\MvcMovie.AssemblyInfo.cs
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\FE_CURD\FE_CURD\obj\Debug\net6.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\FE_CURD\FE_CURD\obj\Debug\net6.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\FE_CURD\FE_CURD\obj\Debug\net6.0\MvcMovie.RazorAssemblyInfo.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\FE_CURD\FE_CURD\obj\Debug\net6.0\MvcMovie.RazorAssemblyInfo.cs
